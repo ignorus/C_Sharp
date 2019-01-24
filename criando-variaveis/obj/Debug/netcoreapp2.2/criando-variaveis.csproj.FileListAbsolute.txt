@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/bin/Debug/netcoreapp2.2/criando-variaveis.deps.json
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/bin/Debug/netcoreapp2.2/criando-variaveis.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/bin/Debug/netcoreapp2.2/criando-variaveis.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/bin/Debug/netcoreapp2.2/criando-variaveis.dll
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/bin/Debug/netcoreapp2.2/criando-variaveis.pdb
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.dll
+/home/tiago-bugan-debs/C_Sharp/criando-variaveis/obj/Debug/netcoreapp2.2/criando-variaveis.pdb
