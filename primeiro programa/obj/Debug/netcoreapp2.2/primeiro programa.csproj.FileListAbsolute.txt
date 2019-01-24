@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/bin/Debug/netcoreapp2.2/primeiro programa.deps.json
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/bin/Debug/netcoreapp2.2/primeiro programa.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/bin/Debug/netcoreapp2.2/primeiro programa.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/bin/Debug/netcoreapp2.2/primeiro programa.dll
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/bin/Debug/netcoreapp2.2/primeiro programa.pdb
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.dll
+/home/tiago-bugan-debs/C_Sharp/primeiro programa/obj/Debug/netcoreapp2.2/primeiro programa.pdb
