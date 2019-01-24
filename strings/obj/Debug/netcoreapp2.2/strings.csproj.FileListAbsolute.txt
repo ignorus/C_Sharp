@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/strings/bin/Debug/netcoreapp2.2/strings.deps.json
+/home/tiago-bugan-debs/C_Sharp/strings/bin/Debug/netcoreapp2.2/strings.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/strings/bin/Debug/netcoreapp2.2/strings.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/strings/bin/Debug/netcoreapp2.2/strings.dll
+/home/tiago-bugan-debs/C_Sharp/strings/bin/Debug/netcoreapp2.2/strings.pdb
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.dll
+/home/tiago-bugan-debs/C_Sharp/strings/obj/Debug/netcoreapp2.2/strings.pdb
