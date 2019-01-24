@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/bin/Debug/netcoreapp2.2/variavel-in-variavel.deps.json
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/bin/Debug/netcoreapp2.2/variavel-in-variavel.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/bin/Debug/netcoreapp2.2/variavel-in-variavel.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/bin/Debug/netcoreapp2.2/variavel-in-variavel.dll
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/bin/Debug/netcoreapp2.2/variavel-in-variavel.pdb
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.dll
+/home/tiago-bugan-debs/C_Sharp/variavel-in-variavel/obj/Debug/netcoreapp2.2/variavel-in-variavel.pdb
