@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/laco-for/bin/Debug/netcoreapp2.2/laco-for.deps.json
+/home/tiago-bugan-debs/C_Sharp/laco-for/bin/Debug/netcoreapp2.2/laco-for.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/laco-for/bin/Debug/netcoreapp2.2/laco-for.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/laco-for/bin/Debug/netcoreapp2.2/laco-for.dll
+/home/tiago-bugan-debs/C_Sharp/laco-for/bin/Debug/netcoreapp2.2/laco-for.pdb
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.dll
+/home/tiago-bugan-debs/C_Sharp/laco-for/obj/Debug/netcoreapp2.2/laco-for.pdb
