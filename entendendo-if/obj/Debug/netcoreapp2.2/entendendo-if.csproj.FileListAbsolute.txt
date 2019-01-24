@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/bin/Debug/netcoreapp2.2/entendendo-if.deps.json
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/bin/Debug/netcoreapp2.2/entendendo-if.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/bin/Debug/netcoreapp2.2/entendendo-if.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/bin/Debug/netcoreapp2.2/entendendo-if.dll
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/bin/Debug/netcoreapp2.2/entendendo-if.pdb
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.dll
+/home/tiago-bugan-debs/C_Sharp/entendendo-if/obj/Debug/netcoreapp2.2/entendendo-if.pdb
