@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/bin/Debug/netcoreapp2.2/variavel-bool.deps.json
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/bin/Debug/netcoreapp2.2/variavel-bool.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/bin/Debug/netcoreapp2.2/variavel-bool.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/bin/Debug/netcoreapp2.2/variavel-bool.dll
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/bin/Debug/netcoreapp2.2/variavel-bool.pdb
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.dll
+/home/tiago-bugan-debs/C_Sharp/variavel-bool/obj/Debug/netcoreapp2.2/variavel-bool.pdb
