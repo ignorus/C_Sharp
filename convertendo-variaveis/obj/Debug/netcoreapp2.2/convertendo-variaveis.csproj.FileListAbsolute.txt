@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/bin/Debug/netcoreapp2.2/convertendo-variaveis.deps.json
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/bin/Debug/netcoreapp2.2/convertendo-variaveis.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/bin/Debug/netcoreapp2.2/convertendo-variaveis.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/bin/Debug/netcoreapp2.2/convertendo-variaveis.dll
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/bin/Debug/netcoreapp2.2/convertendo-variaveis.pdb
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.dll
+/home/tiago-bugan-debs/C_Sharp/convertendo-variaveis/obj/Debug/netcoreapp2.2/convertendo-variaveis.pdb
