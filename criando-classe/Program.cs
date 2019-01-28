@@ -7,7 +7,11 @@ namespace criando_classe
         static void Main(string[] args)
         {
            ContaCorrente contaTiago = new ContaCorrente();
-           contaTiago.titular = "Tiago";
+           Cliente tiago = new Cliente();
+           tiago.nome = "Tiago";
+           tiago.CPF = "455.716.688-14";
+           tiago.profissao = "Analista Junior";
+           contaTiago.titular = tiago;
            Console.WriteLine("O titular da conta e " + contaTiago.titular);
            contaTiago.numeroAgencia = 1000;
            Console.WriteLine("A agencia da conta e " + contaTiago.numeroAgencia);

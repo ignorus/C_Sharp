@@ -1,9 +1,9 @@
 namespace criando_classe
 {
-    public Class Cliente
+    public class Cliente
     {
-        string nome;
-        string CPF;
-        string profissao;
+       public string nome;
+       public string CPF;
+       public string profissao;
     }
 }
