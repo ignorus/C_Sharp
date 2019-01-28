@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/heranca/bin/Debug/netcoreapp2.2/heranca.deps.json
+/home/tiago-bugan-debs/C_Sharp/heranca/bin/Debug/netcoreapp2.2/heranca.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/heranca/bin/Debug/netcoreapp2.2/heranca.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/heranca/bin/Debug/netcoreapp2.2/heranca.dll
+/home/tiago-bugan-debs/C_Sharp/heranca/bin/Debug/netcoreapp2.2/heranca.pdb
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.dll
+/home/tiago-bugan-debs/C_Sharp/heranca/obj/Debug/netcoreapp2.2/heranca.pdb
