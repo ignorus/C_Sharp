@@ -2,9 +2,9 @@ namespace criando_classe
 {
     public class ContaCorrente
     {
-        public Cliente titular;
-        public int numeroAgencia;
-        public int numeroConta;
+        public Cliente Titular{get;set;}
+        public int NumeroAgencia{get;set;}
+        public int NumeroConta {get;set;}
         private double saldo = 100;
 
         public double Saldo

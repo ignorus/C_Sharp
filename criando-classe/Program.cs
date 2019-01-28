@@ -8,15 +8,15 @@ namespace criando_classe
         {
            ContaCorrente contaTiago = new ContaCorrente();
            Cliente tiago = new Cliente();
-           tiago.nome = "Tiago";
+           tiago.Nome = "Tiago";
            tiago.CPF = "455.716.688-14";
-           tiago.profissao = "Analista Junior";
-           contaTiago.titular = tiago;
-           Console.WriteLine("O titular da conta e " + contaTiago.titular);
-           contaTiago.numeroAgencia = 1000;
-           Console.WriteLine("A agencia da conta e " + contaTiago.numeroAgencia);
-           contaTiago.numeroConta = 12345;
-           Console.WriteLine("O numero da conta e " + contaTiago.numeroConta);
+           tiago.Profissao = "Analista Junior";
+           contaTiago.Titular = tiago;
+           Console.WriteLine("O titular da conta e " + contaTiago.Titular);
+           contaTiago.NumeroAgencia = 1000;
+           Console.WriteLine("A agencia da conta e " + contaTiago.NumeroAgencia);
+           contaTiago.NumeroConta = 12345;
+           Console.WriteLine("O numero da conta e " + contaTiago.NumeroConta);
            Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
            contaTiago.Saldo = 50.0;
            Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
