@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/bin/Debug/netcoreapp2.2/for-encadeado.deps.json
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/bin/Debug/netcoreapp2.2/for-encadeado.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/bin/Debug/netcoreapp2.2/for-encadeado.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/bin/Debug/netcoreapp2.2/for-encadeado.dll
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/bin/Debug/netcoreapp2.2/for-encadeado.pdb
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.dll
+/home/tiago-bugan-debs/C_Sharp/for-encadeado/obj/Debug/netcoreapp2.2/for-encadeado.pdb
