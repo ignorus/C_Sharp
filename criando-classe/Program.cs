@@ -18,6 +18,10 @@ namespace criando_classe
            Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
            Console.WriteLine(contaTiago.Saque(100.0));
            Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
+           ContaCorrente contaRosa = new ContaCorrente();
+           Console.WriteLine(contaTiago.Transferir(150, contaRosa));
+           Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
+           Console.WriteLine("O saldo atual da conta e " + contaRosa.saldo);
         }
     }
 }
