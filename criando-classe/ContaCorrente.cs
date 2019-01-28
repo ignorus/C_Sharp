@@ -3,5 +3,18 @@ public class ContaCorrente
    public string titular;
    public int numeroAgencia;
    public int numeroConta;
-   public double saldo;
+   public double saldo = 100;
+
+   public bool Saque (double valor)
+   {
+       if(this.saldo < valor)
+       {
+           return false;
+       }
+       else
+       {
+           this.saldo -= valor;
+           return true;
+       }
+   }
 }

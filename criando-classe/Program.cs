@@ -13,10 +13,10 @@ namespace criando_classe
            Console.WriteLine("A agencia da conta e " + contaTiago.numeroAgencia);
            contaTiago.numeroConta = 12345;
            Console.WriteLine("O numero da conta e " + contaTiago.numeroConta);
-           contaTiago.saldo = 10.0;
            Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
            contaTiago.saldo += 40.0;
            Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
+           Console.WriteLine(contaTiago.Saque(200.0));
         }
     }
 }
