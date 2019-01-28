@@ -6,7 +6,9 @@ namespace criando_classe
     {
         static void Main(string[] args)
         {
-            new ContaCorrente();
+           ContaCorrente contaTiago = new ContaCorrente();
+           contaTiago.titular = "Tiago";
+           Console.WriteLine("O titular da conta e " + contaTiago.titular);
          }
     }
 }
