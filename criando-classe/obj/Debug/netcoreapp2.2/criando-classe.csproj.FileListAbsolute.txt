@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/criando-classe/bin/Debug/netcoreapp2.2/criando-classe.deps.json
+/home/tiago-bugan-debs/C_Sharp/criando-classe/bin/Debug/netcoreapp2.2/criando-classe.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/criando-classe/bin/Debug/netcoreapp2.2/criando-classe.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/criando-classe/bin/Debug/netcoreapp2.2/criando-classe.dll
+/home/tiago-bugan-debs/C_Sharp/criando-classe/bin/Debug/netcoreapp2.2/criando-classe.pdb
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.dll
+/home/tiago-bugan-debs/C_Sharp/criando-classe/obj/Debug/netcoreapp2.2/criando-classe.pdb
