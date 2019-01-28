@@ -3,6 +3,7 @@ namespace construtor
     public class ContaCorrente
     {
         public Cliente Titular{get;set;}
+        public static int TotalDeContas{get; private set;}
         public int NumeroAgencia{get;set;}
         public int NumeroConta {get;set;}
         private double saldo = 100;
@@ -25,6 +26,7 @@ namespace construtor
         {
             NumeroAgencia = agencia;
             NumeroConta = numero;
+            TotalDeContas ++;
         }
 
         public bool Saque (double valor)
