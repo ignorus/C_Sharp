@@ -17,15 +17,15 @@ namespace criando_classe
            Console.WriteLine("A agencia da conta e " + contaTiago.numeroAgencia);
            contaTiago.numeroConta = 12345;
            Console.WriteLine("O numero da conta e " + contaTiago.numeroConta);
-           Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
-           contaTiago.Depositar (50.0);
-           Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
+           Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
+           contaTiago.Saldo = 50.0;
+           Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
            Console.WriteLine(contaTiago.Saque(100.0));
-           Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
+           Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
            ContaCorrente contaRosa = new ContaCorrente();
            Console.WriteLine(contaTiago.Transferir(150, contaRosa));
-           Console.WriteLine("O saldo atual da conta e " + contaTiago.saldo);
-           Console.WriteLine("O saldo atual da conta e " + contaRosa.saldo);
+           Console.WriteLine("O saldo atual da conta e " + contaTiago.Saldo);
+           Console.WriteLine("O saldo atual da conta e " + contaRosa.Saldo);
         }
     }
 }

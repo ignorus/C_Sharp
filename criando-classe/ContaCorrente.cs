@@ -5,7 +5,21 @@ namespace criando_classe
         public Cliente titular;
         public int numeroAgencia;
         public int numeroConta;
-        public double saldo = 100;
+        private double saldo = 100;
+
+        public double Saldo
+        {
+            get
+            {
+                return saldo;
+            }
+            set
+            {
+                if(value < 0)
+                {}
+                saldo = value;
+            }
+        }
 
         public bool Saque (double valor)
         {
