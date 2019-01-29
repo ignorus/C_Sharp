@@ -31,14 +31,15 @@ namespace construtor
             }
             catch(DivideByZeroException erro)
             {
+                Console.WriteLine(erro.StackTrace);
                 Console.WriteLine(erro.Message);
             }
         }
 
         public static int Dividir(int numero, int divisor)
         {
-            ContaCorrente conta = null;
-            Console.WriteLine(conta.Saldo);
+            //ContaCorrente conta = null;
+            //Console.WriteLine(conta.Saldo);
 
             return numero/divisor;
         }
