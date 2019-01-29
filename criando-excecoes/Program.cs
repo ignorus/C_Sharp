@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace construtor
+namespace excecao
 {
     class Program
     {
@@ -9,14 +9,21 @@ namespace construtor
             Console.WriteLine("Excecoes");
             try
             {
-                ContaCorrente conta = new ContaCorrente(5,0);
+                ContaCorrente conta = new ContaCorrente(5,1244523);
+                ContaCorrente conta2 = new ContaCorrente(5,723845);
+                conta.Depositar(50);
+                conta.Saque(50);
+                conta.Transferir(-510,conta2);
             }
             catch(ArgumentException e)
             {
-                Console.WriteLine("O parametro que esta com problema eh: " + e.ParamName);
                 Console.WriteLine("Ocorreu uma excecao do tipo ArgumentException");
+                Console.WriteLine("O parametro que esta com problema eh: " + e.ParamName);
+                Console.WriteLine(e.Message);  
+            }
+            catch(SaldoInsuficienteException e)
+            {
                 Console.WriteLine(e.Message);
-                
             }
         }
 

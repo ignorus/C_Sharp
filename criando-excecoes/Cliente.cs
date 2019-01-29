@@ -1,4 +1,4 @@
-namespace construtor
+namespace excecao
 {
     public class Cliente
     {

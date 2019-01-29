@@ -1,6 +1,6 @@
 using System;
 
-namespace construtor
+namespace excecao
 {
     public class ContaCorrente
     {
@@ -44,17 +44,19 @@ namespace construtor
 
         }
 
-        public bool Saque (double valor)
+        public void Saque (double valor)
         {
+            if(valor <= 0)
+            {
+                throw new ArgumentException("Nao eh possivel realizar a operacao desejada com valores menores que 0.", nameof(valor));
+            }
             if(this.saldo < valor)
             {
-                return false;
+                throw new SaldoInsuficienteException(this.Saldo, valor);
             }
-            else
-            {
-                this.saldo -= valor;
-                return true;
-            }
+            
+            this.saldo -= valor;
+                
         }
 
         public void Depositar (double valor)
@@ -62,18 +64,14 @@ namespace construtor
             this.saldo += valor;
         }
 
-        public bool Transferir (double valor, ContaCorrente contaDestino)
+        public void Transferir (double valor, ContaCorrente contaDestino)
         {
-            if(this.saldo < valor)
+            if(valor <= 0)
             {
-                return false;
+                throw new ArgumentException("Nao eh possivel realizar a operacao desejada com valores menores que 0.", nameof(valor));
             }
-            else
-            {
-                this.saldo -= valor;
-                contaDestino.Depositar(valor);
-                return true;
-            }
+            Saque(valor);
+            contaDestino.Depositar(valor);
         }
     }
 }
