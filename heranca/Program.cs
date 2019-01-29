@@ -7,23 +7,31 @@ namespace heranca
         static void Main(string[] args)
         {
             Console.WriteLine("Heranca!!");
-            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
-            Funcionario tiago = new Funcionario();
-            tiago.Nome = "Tiago";
-            tiago.CPF = "123.123.456-20";
-            tiago.Salario = 250;
-            gerenciador.Registrar(tiago);
-            Console.WriteLine(tiago.Nome);
-            Console.WriteLine(tiago.GetBonificacao());
-            Diretor olavo = new Diretor();
-            olavo.Nome = "Olavo";
-            olavo.CPF = "345.137.981-24";
-            olavo.Salario = 1000;
-            gerenciador.Registrar(olavo);
-            Console.WriteLine(olavo.Nome);
-            Console.WriteLine(olavo.GetBonificacao());
-            Console.WriteLine(gerenciador.GetTotalBonificacao());
 
+        }
+
+        public static void CalcularBonificacao()
+        {
+            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+
+            Designer pedro = new Designer("123.456.789 -01");
+            pedro.Nome = "Pedro";
+
+            Diretor roberta = new Diretor("123.456.789 -01");
+            roberta.Nome = "Roberta";
+            
+            GeremteDeConta camila = new GeremteDeConta("123.456.789 -01");
+            camila.Nome = "Camila";
+            
+            Auxiliar igor = new Auxiliar("123.456.789 -01");
+            igor.Nome = "Igor";
+
+            gerenciador.Registrar(pedro);
+            gerenciador.Registrar(roberta);
+            gerenciador.Registrar(camila);
+            gerenciador.Registrar(igor);
+            Console.WriteLine(gerenciador.GetTotalBonificacao());
+            
         }
     }
 }

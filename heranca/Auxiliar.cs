@@ -2,6 +2,10 @@ namespace heranca
 {
     public class Auxiliar : Funcionario
     {
+        public Auxiliar(string cpf) : base(2000, cpf)
+        {
+        }
+
         public override void AumentarSalario()
         {
             Salario *= 0.1;
