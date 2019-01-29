@@ -11,7 +11,11 @@ namespace construtor
             {
                 Metodo();
             }
-            catch(NullReferenceException erro)
+            catch(DivideByZeroException erro)
+            {
+                Console.WriteLine(erro.Message);
+            }
+            catch(Exception erro)
             {
                 Console.WriteLine(erro.StackTrace);
                 Console.WriteLine(erro.Message);
@@ -26,19 +30,12 @@ namespace construtor
 
         static void TestarDivisao(int divisor)
         {
-            try{
             Dividir(10,divisor);
-            }
-            catch(DivideByZeroException erro)
-            {
-                Console.WriteLine(erro.StackTrace);
-                Console.WriteLine(erro.Message);
-            }
         }
 
         public static int Dividir(int numero, int divisor)
         {
-            //ContaCorrente conta = null;
+            ContaCorrente conta = null;
             //Console.WriteLine(conta.Saldo);
 
             return numero/divisor;
