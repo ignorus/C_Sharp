@@ -1,15 +1,15 @@
 namespace heranca
 {
-    public class Funcionario
+    public abstract class Funcionario
     {
         public string Nome { get; set; }
         public string CPF { get; set; }
         public double Salario { get; set; }
 
-        public virtual double GetBonificacao()
-         {
-             return Salario * 0.10;
-         }   
+        public abstract double GetBonificacao();
+
+        public abstract void AumentarSalario();
+          
          
     }
 }

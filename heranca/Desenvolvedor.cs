@@ -1,15 +1,15 @@
 namespace heranca
 {
-    public class Diretor : Funcionario
+    public class Desenvolvedor : Funcionario
     {
         public override void AumentarSalario()
         {
-            Salario *= 0.15;
+            throw new System.NotImplementedException();
         }
 
         public override double GetBonificacao()
         {
-            return Salario * 0.5;
+            throw new System.NotImplementedException();
         }
     }
 }
