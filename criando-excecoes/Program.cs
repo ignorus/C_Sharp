@@ -9,20 +9,13 @@ namespace construtor
             Console.WriteLine("Excecoes");
             try
             {
-                Metodo();
-            }
-            catch(DivideByZeroException erro)
-            {
-                Console.WriteLine(erro.Message);
-            }
-            try
-            {
                 ContaCorrente conta = new ContaCorrente(5,0);
             }
-            catch(ArgumentException erro)
+            catch(ArgumentException e)
             {
+                Console.WriteLine("O parametro que esta com problema eh: " + e.ParamName);
                 Console.WriteLine("Ocorreu uma excecao do tipo ArgumentException");
-                Console.WriteLine(erro.Message);
+                Console.WriteLine(e.Message);
                 
             }
         }

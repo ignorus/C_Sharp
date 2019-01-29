@@ -31,11 +31,11 @@ namespace construtor
             
             if(agencia <= 0)
             {
-                throw new ArgumentException("O argumento numero da agencia deve ser maior que 0.");
+                throw new ArgumentException("O argumento numero da agencia deve ser maior que 0.",nameof(NumeroAgencia));
             }
             if(numero <= 0)
             {
-                throw new ArgumentException("O argumento numero da conta deve ser maior que 0.");
+                throw new ArgumentException("O argumento numero da conta deve ser maior que 0.",nameof(NumeroConta));
             }
             NumeroAgencia = agencia;
             NumeroConta = numero;
