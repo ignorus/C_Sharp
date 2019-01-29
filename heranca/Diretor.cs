@@ -1,12 +1,11 @@
 namespace heranca
 {
-    public class Diretor : Autenticavel
+    public class Diretor : FuncionarioAutenticavel
     {
-        public string Senha { get; private set; }
+    
 
-        public Diretor(string senha,string cpf) : base(5000,cpf)
+        public Diretor(string senha,string cpf) : base(senha,5000,cpf)
         {
-            Senha = senha;
         }
         public override void AumentarSalario()
         {
@@ -19,7 +18,7 @@ namespace heranca
         }
 
 
-        public override bool Autenticar(string senha)
+        public bool Autenticar(string senha)
         {
             return Senha == senha;
         }
