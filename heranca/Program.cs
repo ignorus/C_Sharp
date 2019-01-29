@@ -20,10 +20,10 @@ namespace heranca
             GeremteDeConta camila = new GeremteDeConta("abc","637.578.183-20");
             camila.Nome = "Camila";
 
+
             SistemaInterno sistema = new SistemaInterno();
             sistema.Logar(roberta,"123");
-            sistema.Logar(camila,"123");
-
+            sistema.Logar(camila,"abc");
 
         }
 
