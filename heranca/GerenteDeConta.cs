@@ -1,9 +1,11 @@
 namespace heranca
 {
-    public class GeremteDeConta : Funcionario
+    public class GeremteDeConta : Autenticavel
     {
-        public GeremteDeConta(string cpf) : base(4000, cpf)
+         public string Senha { get; private set; }
+        public GeremteDeConta(string senha,string cpf) : base(4000, cpf)
         {
+            Senha = senha;
         }
 
         public override void AumentarSalario()
@@ -14,6 +16,11 @@ namespace heranca
         public override double GetBonificacao()
         {
             return Salario * 0.25;
+        }
+
+        public override bool Autenticar(string senha)
+        {
+            return Senha == senha;
         }
     }
 }
