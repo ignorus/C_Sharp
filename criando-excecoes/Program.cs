@@ -35,10 +35,14 @@ namespace construtor
 
         public static int Dividir(int numero, int divisor)
         {
-            ContaCorrente conta = null;
-            //Console.WriteLine(conta.Saldo);
-
-            return numero/divisor;
+            try{
+                return numero/divisor;
+            }
+            catch(DivideByZeroException)
+            {
+                Console.WriteLine("Excecao com numero " + numero + " e divisor " + divisor);
+                throw;
+            }
         }
     }
 }
