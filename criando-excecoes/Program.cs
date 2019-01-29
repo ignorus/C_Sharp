@@ -15,11 +15,15 @@ namespace construtor
             {
                 Console.WriteLine(erro.Message);
             }
-            catch(Exception erro)
+            try
             {
-                Console.WriteLine(erro.StackTrace);
+                ContaCorrente conta = new ContaCorrente(5,0);
+            }
+            catch(ArgumentException erro)
+            {
+                Console.WriteLine("Ocorreu uma excecao do tipo ArgumentException");
                 Console.WriteLine(erro.Message);
-                Console.WriteLine("excecao tratada");
+                
             }
         }
 

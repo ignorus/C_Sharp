@@ -1,11 +1,13 @@
+using System;
+
 namespace construtor
 {
     public class ContaCorrente
     {
         public Cliente Titular{get;set;}
         public static int TotalDeContas{get; private set;}
-        public int NumeroAgencia{get;set;}
-        public int NumeroConta {get;set;}
+        public int NumeroAgencia{get;}
+        public int NumeroConta {get;}
         private double saldo = 100;
 
         public static double TaxaOperacao{get; private set;}
@@ -26,6 +28,15 @@ namespace construtor
 
         public ContaCorrente(int agencia, int numero)
         {
+            
+            if(agencia <= 0)
+            {
+                throw new ArgumentException("O argumento numero da agencia deve ser maior que 0.");
+            }
+            if(numero <= 0)
+            {
+                throw new ArgumentException("O argumento numero da conta deve ser maior que 0.");
+            }
             NumeroAgencia = agencia;
             NumeroConta = numero;
             TotalDeContas ++;
