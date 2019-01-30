@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netcoreapp2.1/PrimareService.deps.json
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netcoreapp2.1/PrimareService.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netcoreapp2.1/PrimareService.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netcoreapp2.1/PrimareService.dll
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netcoreapp2.1/PrimareService.pdb
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.dll
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netcoreapp2.1/PrimareService.pdb

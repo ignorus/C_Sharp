@@ -1,0 +1,13 @@
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/NUnit3.TestAdapter.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/NUnit3.TestAdapter.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/nunit.engine.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/nunit.engine.api.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/test.deps.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/test.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/bin/Debug/netstandard2.0/test.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/test/obj/Debug/netstandard2.0/test.pdb

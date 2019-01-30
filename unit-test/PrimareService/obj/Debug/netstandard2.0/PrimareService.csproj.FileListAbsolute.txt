@@ -1,0 +1,9 @@
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netstandard2.0/PrimareService.deps.json
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netstandard2.0/PrimareService.dll
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/bin/Debug/netstandard2.0/PrimareService.pdb
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.dll
+/home/tiago-bugan-debs/C_Sharp/unit-test/PrimareService/obj/Debug/netstandard2.0/PrimareService.pdb
