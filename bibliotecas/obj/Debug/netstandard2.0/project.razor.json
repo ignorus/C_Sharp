@@ -1,6 +1,6 @@
 {
-  "ProjectFilePath": "/home/tiago-bugan-debs/C_Sharp/bibliotecas/construtor.csproj",
-  "TargetFramework": "netcoreapp2.2",
+  "ProjectFilePath": "/home/tiago-bugan-debs/C_Sharp/bibliotecas/bibliotecas.csproj",
+  "TargetFramework": "netstandard2.0",
   "TagHelpers": [],
   "Configuration": {
     "ConfigurationName": "UnsupportedRazor",
