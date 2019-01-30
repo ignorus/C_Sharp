@@ -1,0 +1,11 @@
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/bin/Debug/netcoreapp2.2/App.src.deps.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/bin/Debug/netcoreapp2.2/App.src.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/bin/Debug/netcoreapp2.2/App.src.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/bin/Debug/netcoreapp2.2/App.src.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/bin/Debug/netcoreapp2.2/App.src.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.src/obj/Debug/netcoreapp2.2/App.src.pdb

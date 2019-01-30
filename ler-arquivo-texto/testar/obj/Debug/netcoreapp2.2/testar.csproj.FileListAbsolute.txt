@@ -1,0 +1,17 @@
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/testar.deps.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/testar.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/testar.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/testar.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/testar.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/App.src.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/bin/Debug/netcoreapp2.2/App.src.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.csproj.CopyComplete
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/testar/obj/Debug/netcoreapp2.2/testar.pdb
