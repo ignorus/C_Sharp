@@ -13,7 +13,7 @@ namespace excecao
                 ContaCorrente conta2 = new ContaCorrente(5,723845);
                 conta.Depositar(50);
                 conta.Saque(50);
-                conta.Transferir(-510,conta2);
+                conta.Transferir(510,conta2);
             }
             catch(ArgumentException e)
             {
@@ -22,6 +22,10 @@ namespace excecao
                 Console.WriteLine(e.Message);  
             }
             catch(SaldoInsuficienteException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            catch(OperacaoFinanceiraExecption e)
             {
                 Console.WriteLine(e.Message);
             }

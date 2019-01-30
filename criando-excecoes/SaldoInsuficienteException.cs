@@ -2,7 +2,7 @@ using System;
 
 namespace excecao
 {
-    public class SaldoInsuficienteException : Exception
+    public class SaldoInsuficienteException : OperacaoFinanceiraExecption
     {
         public double Saldo { get; }
         public double Valor { get; }
@@ -12,6 +12,8 @@ namespace excecao
             Valor = valor;
         }
         public SaldoInsuficienteException(string mensagem) : base(mensagem) {}
+
+        public SaldoInsuficienteException(string mensagem, Exception inner) : base(mensagem, inner){}
         public SaldoInsuficienteException() {}
     }
 }

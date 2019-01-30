@@ -26,6 +26,9 @@ namespace excecao
             }
         }
 
+        public int ContadorTransferenciasNaoPermitidas { get; private set; }
+        public int ContadorSaqueNaoPermitido { get; private set; }
+
         public ContaCorrente(int agencia, int numero)
         {
             
@@ -52,6 +55,7 @@ namespace excecao
             }
             if(this.saldo < valor)
             {
+                ContadorSaqueNaoPermitido++;
                 throw new SaldoInsuficienteException(this.Saldo, valor);
             }
             
@@ -70,7 +74,15 @@ namespace excecao
             {
                 throw new ArgumentException("Nao eh possivel realizar a operacao desejada com valores menores que 0.", nameof(valor));
             }
-            Saque(valor);
+            try
+            {
+                Saque(valor);
+            }
+            catch(SaldoInsuficienteException ex)
+            {
+                ContadorTransferenciasNaoPermitidas ++;
+                throw new OperacaoFinanceiraExecption("Operacao nao realizada",ex);
+            }   
             contaDestino.Depositar(valor);
         }
     }
