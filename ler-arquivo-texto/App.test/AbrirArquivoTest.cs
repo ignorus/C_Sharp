@@ -8,13 +8,17 @@ namespace App.test
     public class AbrirArquivoTest
     {
         [Fact]
-        public void AbrirArquivo()
+        public void AbrirArquivoTXTTest()
         {
-            string text = File.ReadAllText(@"/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/PastaArquivos/test.txt");
-            string[] textParsed = text.Split(';');
-            Console.WriteLine(text);
-            Assert.Equal("ahh",textParsed[2]);
-            
+            ArquivoTXT abrir = new ArquivoTXT();
+            Assert.True(abrir.AbrirArquivo("/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/PastaArquivos/test.txt"));
+        }
+
+        [Fact]
+        public void DarErroAoMandarAbrirArquivoInexistente()
+        {
+            ArquivoTXT abrir = new ArquivoTXT();
+            Assert.False(abrir.AbrirArquivo("/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/PastaArquivos/test.tvt"));
         }
     }
 }
