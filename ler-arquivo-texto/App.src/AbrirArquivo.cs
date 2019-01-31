@@ -10,7 +10,7 @@ namespace App.SRC
         {
             try
             {
-                Text = File.ReadAllText(path);
+                Text = File.ReadAllText(path).Trim();
                 return true;
             }
             catch(Exception e)
