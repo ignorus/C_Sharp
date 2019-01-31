@@ -6,7 +6,15 @@ namespace App.SRC
     {
         public void OrdenarCrescente(string[] textArray)
         {
-            throw new NotImplementedException();
+            Array.Sort(textArray);
+            return;
+        }
+
+        public void OrdenarDecrescente(string[] textArray)
+        {
+            Array.Sort(textArray);
+            Array.Reverse(textArray);
+            return;
         }
     }
 }

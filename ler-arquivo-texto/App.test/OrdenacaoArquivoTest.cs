@@ -14,5 +14,14 @@ namespace App.Test
             Assert.Equal("ahh",textArray[0]);
             
         }
+
+        [Fact]
+        public void OrdenarDecrescenteTest()
+        {
+            OrdenacaoArquivo ordenador = new OrdenacaoArquivo();
+            string[] textArray = new string[] {"ahh","alo","uhh","ola"};
+            ordenador.OrdenarDecrescente(textArray);
+            Assert.Equal("uhh",textArray[0]);
+        }
     }
 }
