@@ -6,7 +6,7 @@ namespace App.SRC
     {
         public string[] Separar(string text)
         {
-            throw new NotImplementedException();
+            return text.Split(";");
         }
     }
 }
