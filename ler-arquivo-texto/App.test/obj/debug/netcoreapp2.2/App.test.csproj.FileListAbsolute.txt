@@ -1,0 +1,17 @@
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.test.deps.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.test.runtimeconfig.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.test.runtimeconfig.dev.json
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.test.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.test.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.src.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/bin/debug/netcoreapp2.2/App.src.pdb
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.csprojAssemblyReference.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.csproj.CoreCompileInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.AssemblyInfoInputs.cache
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.AssemblyInfo.cs
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.csproj.CopyComplete
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.dll
+/home/tiago-bugan-debs/C_Sharp/ler-arquivo-texto/App.test/obj/debug/netcoreapp2.2/App.test.pdb

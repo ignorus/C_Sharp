@@ -1,0 +1,34 @@
+quando lendo arquivos no C# usa-se FileStream, filemode Open para abrir o arquivo e entao usar read, passando um buffer, offset e count como argumentos. usando buffers podemos ler pequenas porcoes do arquivo de cada vez e assim nao ter que ler tudo na chamada do metodo.
+Eh uma boa pratica instanciar o FileStrem dentro de um using, assim, quando o recurso nao estiver mais sendo utilizado, o proprio programa ira liberar o recurso sem termos de nos preocupar em fechar "manualmente" o arquivo
+Sempre que usar buffers, antes de sobreescrever, limpar o buffer para nao reescrever dados antigos, ou passar a quantidade de elementos dentro do buffer a ser lido
+modificador partial te permite escrever uma classe distribuida em varios arquivos
+Para facilitar a manipulacao de arquivos, pode-se utilizar da classe streamReader ao inves de utilizar a implementacao diretamente por bytes, desta forma ainda eh possivel otimizar os recursos sendo utilizados pelo SO e ao mesmo tempo tornar o codigo mais legivel
+Criar arquivo filestream(path, Filemode.Create)
+{
+	var contacomostring = "diuguef"
+	var encoding = encondig.utf8
+	var bytes = encodig.getbytes(contacomostrinng)
+
+	fluxoarquivo.write(bytes,0,bystes.lenth)
+}
+
+podemos criar um arquivo usando o streamwriter tambem, para nao utilizar diretamente os bytes que queremos escrever
+Criar arquivo filestream(path, Filemode.Create)
+using( var escritor = new StreamWriter(Steram x)
+{
+	escritor.write("string com dados")
+}
+
+usando o Filemode.Create ele tenta criar um arquivo co o nome que foi passado como [arametro, mas caso ja exista, ele simplesmente apaga o conteudo e escreve o que pedimos para ser escrito, com o createnew, ele lanca uma excecao caso o arquivo ja exista naquele caminho que passamos como parametro
+Quando estamos criando um arquivo que necessita ser escrito em tempo de execucao, temos de usar o comando streamWriter.flush() que faz com que o buffer do streamwriter seja colocado no arquivo destino, do contrario, o arquivo somente sera preenchido no final da aplicacao
+
+BInaryWriter escreve a representacao binaria dos valores passados para ele, quando recuperamos a informacao, com o binary reader, temos de fazer isso na mesma ordemque escrevemos, alem disso devemossaber o tipo que queremos ler, ja que cada tipo ocupa um determinado numero de Bytes
+
+Para realizar a leitura de input via console, podemos utilizar 
+(var fs = Console.OpenStandardInput())
+{
+	var buffer = new byte [1024]
+	fs.Read(buffer,0,1024)
+}
+
+para arquivos pequenos podemos utilizar a classe File e usar os metodos writeAll e ReadAll

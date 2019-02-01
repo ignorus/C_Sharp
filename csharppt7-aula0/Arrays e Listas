@@ -1,0 +1,39 @@
+indexadoes podem ser criados de forma similar a uma propriedade
+public "Class name" this [var x]
+{
+	get
+	{
+		return y;
+	}
+}
+
+Arrays sao criados com tamanho definido nao sendo possivel alterar posteriormente
+
+quando da criacao de construtores ou, eh possivel determinar argumentos opcionais
+
+public metodo(int idade =5), caso na chamada do metodo nao seja passado nenhum valor de argumento automaticamente sera atribuido o valor 5 na variavel
+
+construcao de foreach
+foreach(var test in array)
+{
+	//logic
+}
+
+params antes de tipo de argumento cria o tipo de argumento  em forma de array para nao ser necessario fazer varias sobrecargas do mesmo metodo
+
+Caso queira utilizar uma classe com argumaneto de tipo generico, utilizar a notacao public class MinhaClasse<T> e colocar como parametro de tipo nos metos T, MeuMetodo (T valorusuario), em classes com argumeto generico nao utilizar atribuicao de referencia
+
+Metodos de extensao precisam ser static em classes static, para criar um metodo extensao devemos usar a sintaxe
+public static void meumetodo( this classe extendida nome, outros parametros)
+
+o metodo pode reveber um atgumento generico
+
+quando criamos um metodo de extensao generico baseado em uma classe extendida generica nao eh necessario na chamada dizer o tipo que sera usado,pois o mesmo sera inferido pelo compilador baseado no tipo da classe que esta sendo utilizada
+
+var, palavra reservada do C# que ao ser utilizada faz com que o tipo da variavel seja inferido pela chamada do construtor, pode ser usado inclusive para tratra retorno de chamadas de metodo
+
+Interface Icomparable deve retorna -1 caso meu obj tenha precedencia, 0 caso seja equivalente e +1 caso ele nao tenha predencia
+
+Para ordenar objetos complexos atraves de uma propriedade simples utilizar o orderBy, ele tem um retorno, logo isso tem de ser guardado por uma variavel para poder ser lido posteriormente
+
+De froma similar, utilizabdo o where podemos escrever uma experessao lambda pra eliminar de uma lista, os elementos que nao satisfazem a condicao
